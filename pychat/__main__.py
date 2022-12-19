@@ -11,7 +11,6 @@ def main():
         exit(-1)
 
     print('PyChat v0.1') 
-    #set OPENAI_API_KEY=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
     #git@github.com:LanceCMG/pychat.git
 
     query = input('Input: ')
