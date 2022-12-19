@@ -1,6 +1,4 @@
 .idea
 env
 pychat/__pycache__
-key
-key.pub
 requirements.txt
