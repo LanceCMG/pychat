@@ -3,3 +3,4 @@ env
 pychat/__pycache__
 key.txt
 key.pub
+requirements.txt
