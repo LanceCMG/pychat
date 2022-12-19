@@ -1,5 +1,5 @@
 .idea
 env
 pychat/__pycache__
-key
+key.txt
 key.pub
